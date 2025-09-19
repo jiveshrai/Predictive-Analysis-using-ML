@@ -24,7 +24,3 @@ This project analyzes India's IoT in healthcare market, examining **startup tren
 - Identified emerging startups with **high growth potential** in the IoT healthcare space.  
 - Generated **SQL-based dashboards and reports** for trend visualization and stakeholder insights.
 
-## How to Run
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/iot-healthcare-analysis.git
